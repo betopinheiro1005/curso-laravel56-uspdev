@@ -1,9 +1,13 @@
 # Curso de Laravel 5.6
 ## USP dev (Leandro Ramos)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=lO_udEy9I4U&list=PLIFOx3X8xDut2X2ydevlVvFKkqFxZ4SX9)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=lO_udEy9I4U&list=PLIFOx3X8xDut2X2ydevlVvFKkqFxZ4SX9)  
 
 Aula 01 - hasMany Relationships e Tinker  
 Aula 02 - hasManyThrough Relationships  
